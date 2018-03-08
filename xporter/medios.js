@@ -1,0 +1,1 @@
+var medios=["emol","ltpaper","mediosregionales","lasegunda","inversiones","legal","elmostrador"]
